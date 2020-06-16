@@ -1,0 +1,54 @@
+Endorr pokemon/endorr.png 1 50 26 56 49 55 18 15 2 10 
+Endrowth pokemon/endrowth.png 2 66 34 82 79 85 28 15 3 20
+Monstratos pokemon/monstratos.png 3 92 64 95 104 146 37 15 4 30
+Ampar pokemon/ampar.png 4 40 35 36 44 56 55 3 5 10
+Amparai pokemon/amparai.png 5 55 50 51 64 71 65 3 6 20
+Amparor pokemon/amparor.png 6 85 60 71 104 101 80 3 7 30
+Goosh pokemon/goosh.png 7 47 45 45 60 60 57 17 8 10
+Quaggle pokemon/quaggle.png 8 67 60 60 80 80 77 17 9 20
+Fowlant pokemon/fowlant.png 9 87 85 65 105 85 107 17 10 30
+Mintol pokemon/mintol.png 10 39 42 46 64 45 39 9 11 10
+Florost pokemon/florost.png 11 71 46 66 98 65 44 9 12 20
+Aromerita pokemon/aromerita.png 12 75 57 74 145 103 76 9 13 30
+MegaAromerita pokemon/megaAromerita.png 13 85 87 104 185 133 96 9
+Purgast pokemon/purgast.png 14 71 91 69 119 81 139 12 15 10
+Purgast(WrathForm) pokemon/purgastWrath.png 15 81 111 74 139 86 169 8
+Morsis pokemon/morsis.png 16 91 121 139 79 71 69 12 16 10
+Morsis(WrathForm) pokemon/morsisWrath.png 17 101 146 169 94 101 49 1
+Vivorin pokemon/vivorin.png 18 121 61 79 99 131 79 12 19 10
+Vivorin(WrathForm) pokemon/vivorinWrath.png 19 131 86 59 169 111 104 14
+Lectrobe pokemon/lectrobe.png 20 30 95 60 70 30 65 3 21 10
+Wrektric pokemon/wrektric.png 21 52 132 73 83 51 103 3
+Bleech pokemon/bleech.png 22 46 43 32 45 52 66 1 23 10
+Vampara pokemon/vampara.png 23 76 70 42 65 82 80 1 24 20
+Draculeech pokemon/draculeech.png 24 82 140 66 108 126 108 1
+Mizumi pokemon/mizumi.png 25 60 65 52 65 58 110 12 26 10
+MegaMizumi pokemon/megaMizumi.png 26 80 85 87 150 93 135 12 
+Larvio pokemon/larvio.png 27 55 63 35 45 74 52 0 28 10
+Oravio pokemon/oravio.png 28 83 95 61 55 134 91 0
+Mianari pokemon/mianari.png 29 55 35 50 65 40 65 3 30 10
+Surinari pokemon/surinari.png 30 86 54 70 105 64 116 3
+Baulder pokemon/baulder.png 31 55 60 65 40 45 35 2 32 10
+Dredrock pokemon/dredrock.png 32 65 75 90 55 60 50 2 33 20
+Tekagon pokemon/tekagon.png 33 110 98 132 78 92 65 2
+Redhandit pokemon/redhandit.png 34 36 75 28 55 33 71 1 35 10
+Criminiac pokemon/criminiac.png 35 72 115 84 95 86 106 1
+Omnom pokemon/omnom.png 36 50 20 35 30 35 100 4 37 10
+Yumee pokemon/yumee.png 37 65 30 55 60 55 115 4 38 20
+Liscious pokemon/liscious.png 38 85 51 65 113 78 127 4 39 30
+MegaLiscious pokemon/megaLiscious.png 39 105 86 95 168 133 152 4 
+Orugoh(DivineForm) pokemon/orugohDivine.png 40 100 95 130 150 120 95 12
+Orugoh(DiabloicForm) pokemon/orugohDiablo.png 41 100 150 120 95 140 105 12
+Speck pokemon/speck.png 42 45 55 35 35 45 50 12 43 10
+Pecule pokemon/pecule.png 43 73 80 60 59 55 62 12 44 20
+Wredator pokemon/wredator.png 44 90 145 74 69 82 100 12
+Qairrel pokemon/qarriel.png 45 99 125 87 83 114 135 12 
+Moduzagon pokemon/moduzagon.png 46 96 144 114 96 132 93 0
+Korabo pokemon/korabo.png 47 150 10 160 100 190 85 4
+Ventalius pokemon/ventalius.png 48 115 95 130 110 95 155 7
+Togetsu pokemon/togetsu.png 49 90 140 110 80 130 125 4
+SpringLace pokemon/springLace.png 50 102 120 98 120 135 149 4
+Tenschnee pokemon/tenschnee.png 51 108 92 108 132 148 132 11
+Inkami pokemon/inkami.png 52 100 100 100 100 100 100 14 53 10
+MegaInkami pokemon/megaInkami.png 53 200 200 200 200 200 200 14
+Gadavian pokemon/gadavian.png 54 110 130 160 120 90 130 5

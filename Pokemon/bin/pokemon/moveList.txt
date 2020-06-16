@@ -1,0 +1,293 @@
+Infestation,20,20,20,100,0
+Signal Beam,15,15,75,100,0
+Silver Wind,5,5,60,100,0
+Struggle Bug,20,20,50,100,0
+Attack Order,15,15,90,100,0
+Bug Bite,20,20,60,100,0
+Fell Stinger,25,25,50,100,0
+Fury Cutter,20,20,40,95,0
+Leech Life,10,10,80,100,0
+Lunge,15,15,80,100,0
+Megahorn,10,10,120,85,0
+Pin Missile,20,20,25,95,0
+Steamroller,20,20,65,100,0
+Twineedle,20,20,25,100,0
+U-turn,20,20,70,100,0
+Baddy Bad,15,15,90,100,1
+Dark Pulse,15,15,80,100,1
+Night Daze,10,10,85,95,1
+Snarl,15,15,55,95,1
+Assurance,10,10,90,90,1
+Brutal Swing,20,20,60,100,1
+Crunch,15,15,80,100,1
+Darkest Lariat,10,10,85,100,1
+Feint Attack,20,20,60,100,1
+Foul Play,15,15,95,100,1
+Hyperspace Fury,5,5,100,100,1
+Knock Off,20,20,65,100,1
+Night Slash,15,15,70,100,1
+Power trip,10,10,20,100,1
+Pursuit,20,20,40,100,1
+Thief,25,25,60,100,1
+Throat Chop,15,15,80,100,1
+Chatter,20,20,65,100,2
+Changing Scales,5,5,110,100,2
+Core Enforcer,10,10,100,100,2
+Dragon Breath,20,20,60,100,2
+Dragon Pulse,10,10,85,100,2
+Roar of Time,5,5,150,90,2
+Twister,20,20,40,100,2
+Dragon Claw,15,15,120,100,2
+Dragon Hammer,15,15,90,100,2
+Dragon Rush,10,10,100,75,2
+Dragon Tail,10,10,60,90,2
+Dual Chop,15,15,40,90,2
+Outrage,10,10,120,100,2
+Buzzy Buzz,15,15,90,100,3
+Charge Beam,10,10,50,90,3
+Discharge,15,15,80,100,3
+Electroweb,15,15,55,95,3
+Shock Wave,20,20,60,100,3
+Thunder,10,10,110,70,3
+Thuder Shock,30,30,40,100,3
+Thunderbolt,15,15,90,100,3
+Volt Switch,20,20,70,100,3
+Bolt Strike,5,5,130,85,3
+Fusion Bolt,5,5,100,100,3
+Nuzzle,20,20,20,100,3
+Plasma Fists,15,15,100,100,3
+Spark,20,20,65,100,3
+Thunder Fang,15,15,65,95,3
+Thunder Punch,15,15,75,100,3
+Volt Tackle,15,15,120,100,3
+Wild Charge,15,15,90,100,3
+Zippy Zap,15,15,50,100,3
+Zing Zap,10,10,80,100,3
+Dazzling Gleam,10,10,80,100,4
+Disarming Voice,15,15,40,100,4
+Draining Kiss,10,10,100,100,4
+Fairy Wind,30,30,40,100,4
+Light of Ruin,5,5,140,90,4
+Moonblast,15,15,95,100,4
+Sparkly Swirl,15,15,90,100,4
+Play Rough,10,10,90,90,4
+Aura Sphere,20,20,80,100,5
+Focus Blast,5,5,120,70,5
+Secret Sword,10,10,85,100,5
+Vacuum Wave,30,30,40,100,5
+Arm Thrust,20,20,15,100,5
+Brick Break,15,15,75,100,5
+Circle Throw,10,10,60,90,5
+Close Combat,5,5,120,100,5
+Cross Chop,5,5,100,80,5
+Double Kick,30,30,30,100,5
+Drain Punch,10,10,75,100,5
+Dynamic Punch,5,5,100,50,5
+Flying Press,10,10,100,95,5
+Focus Punch,20,20,150,100,5
+Force Palm,10,10,60,100,5
+Hammer Arm,10,10,100,90,5
+High Jump Kick,10,10,130,90,5
+Jump Kick,10,10,100,95,5
+Karate Chop,25,25,50,100,5
+Low Sweep,20,20,65,100,5
+Mach Punch,30,30,40,100,5
+Revenge,10,10,60,100,5
+Rock Smash,15,15,40,100,5
+Rolling Kick,15,15,60,85,5
+Seismic Toss,20,20,90,100,5
+Superpower,5,5,120,100,5
+Triple Kick,10,10,30,100,5
+Vital Throw,10,10,70,100,5
+Wake-Up Slap,10,10,70,100,5
+Ember,25,25,40,100,6
+Flamethrower,15,15,90,100,6
+Fire Blast,5,5,110,85,6
+Fire Spin,15,15,35,85,6
+Fusion Flare,5,5,100,100,6
+Eruption,5,5,150,100,6
+Heat Wave,10,10,95,90,6
+Incinerate,15,15,60,100,6
+Inferno,5,5,100,50,6
+Lava Plume,15,15,80,100,6
+Overheat,5,5,130,90,6
+Fire Fang,15,15,65,95,6
+Fire Punch,15,15,75,100,6
+Flame Charge,20,20,50,100,6
+Flame Wheel,25,25,60,100,6
+Aeroblast,5,5,100,95,7
+Air Cutter,25,25,60,95,7
+Air Slash,20,20,75,95,7
+Chatter,20,20,65,100,7
+Gust,35,35,40,100,7
+Hurricane,10,10,110,70,7
+Oblivion Wing,10,10,80,100,7
+Acrobatics,15,15,55,100,7
+Aerial Ace,20,20,60,100,7
+Beak Blast,15,15,100,100,7
+Bounce,5,5,85,85,7
+Brave Bird,15,15,120,100,7
+Drill Peck,20,20,80,100,7
+Fly,15,15,90,95,7
+Peck,35,35,35,100,7
+Pluck,20,20,60,100,7
+Sky Attack,5,5,140,90,7
+Sky Drop,10,10,60,100,7
+Wing Attack,35,35,60,100,7
+Hex,10,10,65,100,8
+Night Shade,15,15,40,100,8
+Ominous Wind,5,5,60,100,8
+Shadow Ball,15,15,80,100,8
+Astonish,15,15,30,100,8
+Lick,30,30,30,100,8
+Phantom Force,10,10,90,100,8
+Shadow Bone,10,10,85,100,8
+Shadow Force,5,5,120,100,8
+Shadow Punch,20,20,60,100,8
+Shadow Sneak,30,30,40,100,8
+Nightmare,15,15,70,100,8
+Absorb,25,25,20,100,9
+Energy Ball,10,10,90,100,9
+Frenzy Plant,5,5,150,90,9
+Giga Drain,10,10,75,100,9
+Grass Pledge,10,10,80,100,9
+Leaf Storm,5,5,130,90,9
+Leaf Tornado,10,10,65,90,9
+Magical Leaf,20,20,60,100,9
+Mega Drain,15,15,40,100,9
+Petal Dance,10,10,120,100,9
+Seed Flare,5,5,120,85,9
+Solar Beam,10,10,120,100,9
+Bullet Seed,30,30,25,100,9
+Horn Leech,10,10,75,100,9
+Leaf Blade,15,15,90,100,9
+Leafage,30,30,40,100,9
+Needle Arm,15,15,60,100,9
+Petal Blizzard,15,15,90,100,9
+Power Whip,10,10,120,85,9
+Razor Leaf,25,25,55,95,9
+Sappy Seed,15,15,90,100,9
+Seed Bomb,15,15,80,100,9
+Solar Blade,10,10,125,100,9
+Trop Kick,15,15,70,100,9
+Vine Whip,25,25,45,100,9
+Wood Hammer,15,15,120,100,9
+Earth Power,10,10,90,100,10
+Mud Bomb,10,10,65,85,10
+Mud Shot,15,15,55,95,10
+Mud-Slap,10,10,20,100,10
+Bone Club,20,20,65,85,10
+Bone Rush,10,10,25,90,10
+Bonemerang,10,10,50,90,10
+Dig,10,10,80,100,10
+Drill Run,10,10,80,95,10
+Earthquake,10,10,100,100,10
+Sand Tomb,15,15,35,85,10
+Aurora Beam,20,20,65,100,11
+Blizzard,5,5,110,70,11
+Freeze-Dry,20,20,70,100,11
+Freezy Frost,15,15,90,100,11
+Frost Breath,10,10,60,90,11
+Glaciate,10,10,65,95,11
+Ice Beam,10,10,90,100,11
+Ice Burn,5,5,140,90,11
+Icy Wind,15,15,55,95,11
+Powder Snow,25,25,40,100,11
+Avalanche,10,10,60,100,11
+Freeze Shock,5,5,140,90,11
+Ice Ball,20,20,30,90,11
+Ice Fang,15,15,65,95,11
+Ice Hammer,10,10,100,90,11
+Ice Punch,15,15,75,100,11
+Ice Shard,30,30,40,100,11
+Icicle Crash,10,10,85,90,11
+Icicle Spear,30,30,25,100,11
+Tackle,35,35,40,100,12
+Scratch,35,35,40,100,12
+Boomburst,10,10,140,100,12
+Tail Slap,10,10,25,85,12
+Thrash,10,10,120,100,12
+Spike Cannon,15,15,20,100,12
+Slash,20,20,70,100,12
+Slam,20,20,80,75,12
+Skull Bash,10,10,130,100,12
+Quick Attack,30,30,40,100,12
+Rapid Spin,40,40,20,100,12
+Pound,35,35,40,100,12
+Headbutt,15,15,70,100,12
+Fury Swipes,15,15,48,80,12
+Feint,10,10,30,100,12
+Cut,30,30,50,95,12
+Chip Away,20,20,70,100,12
+Body Slam,15,15,85,100,12
+Barrage,20,20,60,85,12
+Swift,20,20,60,100,12
+Snore,15,15,50,100,12
+Hyper Beam,5,5,150,90,12
+Acid,30,30,40,100,13
+Acid Spray,20,20,40,100,13
+Belch,10,10,120,90,13
+Sludge,20,20,65,100,13
+Sludge Bomb,10,10,90,100,13
+Sludge Wave,10,10,95,100,13
+Smog,20,20,30,70,13
+Cross Poison,20,20,70,100,13
+Gunk Shot,5,5,120,80,13
+Poison Fang,15,15,50,100,13
+Poison Jab,20,20,80,100,13
+Poison Sting,35,35,15,100,13
+Poison Tail,25,25,50,100,13
+Confusion,25,25,50,100,14
+Extrasensory,20,20,80,100,14
+Future Sight,10,10,120,100,14
+Mist Ball,5,5,70,100,14
+Psybeam,20,20,65,100,14
+Psychic,10,10,90,100,14
+Psyshock,10,10,80,100,14
+Psystrike,10,10,100,100,14
+Psychic Fangs,10,10,85,100,14
+Psycho Cut,20,20,70,100,14
+Ancient Power,5,5,60,100,15
+Power Gem,20,20,80,100,15
+Accelerock,20,20,40,100,15
+Diamond Storm,5,5,100,95,15
+Head Smash,5,5,150,80,15
+Rock Blast,10,10,25,90,15
+Rock Slide,10,10,75,90,15
+Rock Throw,15,15,50,90,15
+Rock Tomb,15,15,60,95,15
+Rock Wrecker,5,5,150,90,15
+Smack Down,15,15,50,100,15
+Stone Edge,5,5,100,80,15
+Flash Cannon,10,10,80,100,16
+Mirror Shot,10,10,65,85,16
+Anchor Shot,20,20,80,100,16
+Bullet Punch,30,30,40,100,16
+Double iron Bash,5,5,60,100,16
+Gear Grind,15,15,50,85,16
+Iron Head,15,15,80,100,16
+Iron Tail,15,15,100,75,16
+Metal Claw,35,35,50,95,16
+Meteor Mash,10,10,90,90,16
+Steel Wing,25,25,70,90,16
+Sunsteel Strike,5,5,100,100,16
+Bouncy Bubble,15,15,90,100,17
+Brine,10,10,65,100,17
+Bubble,30,30,40,100,17
+Bubble Beam,20,20,65,100,17
+Hydro Cannon,5,5,150,90,17
+Hydro Pump,5,5,110,80,17
+Muddy Water,10,10,90,85,17
+Scald,15,15,80,100,17
+Surf,15,15,90,100,17
+Water Gun,25,25,40,100,17
+Water Pulse,20,20,60,100,17
+Water Spout,5,5,150,100,17
+Whirlpool,15,15,35,85,17
+Aqua Jet,20,20,40,100,17
+Aqua Tail,10,10,90,90,17
+Dive,10,10,80,100,17
+Waterfall,15,15,80,100,17
+Take Down,20,20,90,85,12
+Flare Blitz,15,15,120,100,6
+Self-Destruct,5,5,200,100,12

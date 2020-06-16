@@ -1,0 +1,14 @@
+Juice Box"assets/BattleItems/juiceBox.png"10"0"0"300"A small juice box, good for on the run. Restores 10 health.
+Chocolate Bar"assets/BattleItems/chocolateBar.png"20"0"0"500"A small chocolate bar, it's really sweet. Restores 20 health.
+Ginger Bread Man"assets/BattleItems/breadMan.png"40"0"0"750"A ginger bread man, even though it's not Christmas. Restores 40 health.
+Milk"assets/BattleItems/milk.png"50"0"0"1000"A bottle of milk, it's good for the bones. Restores 50 health.
+Sundae"assets/BattleItems/sundae.png"75"0"0"1250"A delicious sundae, eat it before it melts. Restores 75 health.
+Burger"assets/BattleItems/burger.png"100"0"0"1500"A big filling burger, it smells delicious. Restores 100 health.
+Watermelon"assets/BattleItems/watermelon.png"125"0"0"1750"A watermelon, perfect for a summer day. Restores 125 health.
+Lobster"assets/BattleItems/lobster.png"150"0"0"2000"A lobster, caught straight from the sea. Restores 150 health.
+Cake"assets/BattleItems/cake.png"175"0"0"2500"A cake, better have room for desert! Restores 175 health.
+Full Course Meal"assets/BattleItems/fullCourseMeal.png"200"0"0"3000"A full course meal, it feels good to eat good. Restores 200 health.
+Micro Ball"assets/BattleItems/pokeball.png"0"30"0"100"The default ball for catching Pokemon, has a low catch percentage.
+Great Ball"assets/BattleItems/greatball.png"0"40"0"500"A ball for catching Pokemon, is more effective than the Micro Ball.
+Ultra Ball"assets/BattleItems/ultraball.png"0"60"0"1000"A ball for catching Pokemon, is more effective than the Great Ball.
+Master Ball"assets/BattleItems/masterball.png"0"100"0"10000"A ball for catching Pokemon without fail.
