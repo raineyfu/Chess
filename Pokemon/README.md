@@ -1,4 +1,4 @@
 Pokemon Phoenix Rising by Rainey Fu
 
-Run main in /src/Game.java to launch
+Download all files and run main in /src/Game.java to launch
 
