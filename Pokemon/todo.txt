@@ -1,9 +1,0 @@
-finish intro (intro doesnt stop playing)
-fix camera movement (make it so character stays centered while the ground moves, stop using entity class???)
-add objects that cant be walked into (tilemap)
-
-finish game
-
-
-
-flex on nibbas
